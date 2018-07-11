@@ -1,4 +1,4 @@
-# stroboscope_ReactApp
+# Stroboscope_ReactApp
 Stroboscope created in React JS. The stroboscope effect is obtained by changing the state (in this case color) of an object with high frequency (by using setInterval function).
 
 # Demo
