@@ -7,8 +7,8 @@ You can find the demo of this project on: https://kropidlowska-okraska.github.io
 # Instalation and guidelines
 To install the project simply download it and run the index.html in your web browser. And if you want to play with the project in React (for example change colors or frequency) you need to use the following commends:
 
-### -to install dependencies
+### - to install dependencies
 $ npm install
 
-### -to obtain out.js file
+### - to obtain out.js file
 $ npm start
